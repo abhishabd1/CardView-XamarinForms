@@ -39,7 +39,7 @@
 
                         <StackLayout Grid.Row="0" Grid.Column="1"  Orientation="Vertical">
                             <StackLayout Orientation="Horizontal">
-                                <Label Text="Namev:"/>
+                                <Label Text="Name :"/>
                                 <Label Text="{Binding employee_name}"/>
                             </StackLayout>
                             <StackLayout Orientation="Horizontal">

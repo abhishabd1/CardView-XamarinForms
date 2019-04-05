@@ -13,7 +13,8 @@
 namespace DemoProject.View {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\PracticePro\\DemoProject\\DemoProject\\DemoProject\\View\\CardViewTemplate.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\PracticePro\\CardView-XamarinForms\\DemoProject\\DemoProject\\View\\CardViewTemplat" +
+        "e.xaml")]
     public partial class CardViewTemplate : global::Xamarin.Forms.ContentView {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

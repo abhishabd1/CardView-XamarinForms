@@ -839,11 +839,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PracticePro\\DemoProject\\DemoProject\\DemoProject.iOS\\DemoProject.iOS.csproj",
+      "projectUniqueName": "D:\\PracticePro\\CardView-XamarinForms\\DemoProject\\DemoProject.iOS\\DemoProject.iOS.csproj",
       "projectName": "DemoProject.iOS",
-      "projectPath": "D:\\PracticePro\\DemoProject\\DemoProject\\DemoProject.iOS\\DemoProject.iOS.csproj",
+      "projectPath": "D:\\PracticePro\\CardView-XamarinForms\\DemoProject\\DemoProject.iOS\\DemoProject.iOS.csproj",
       "packagesPath": "C:\\Users\\abhishekk.CANARYS\\.nuget\\packages\\",
-      "outputPath": "D:\\PracticePro\\DemoProject\\DemoProject\\DemoProject.iOS\\obj\\",
+      "outputPath": "D:\\PracticePro\\CardView-XamarinForms\\DemoProject\\DemoProject.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

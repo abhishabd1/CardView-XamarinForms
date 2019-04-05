@@ -896,11 +896,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PracticePro\\DemoProject\\DemoProject\\DemoProject.Android\\DemoProject.Android.csproj",
+      "projectUniqueName": "D:\\PracticePro\\CardView-XamarinForms\\DemoProject\\DemoProject.Android\\DemoProject.Android.csproj",
       "projectName": "DemoProject.Android",
-      "projectPath": "D:\\PracticePro\\DemoProject\\DemoProject\\DemoProject.Android\\DemoProject.Android.csproj",
+      "projectPath": "D:\\PracticePro\\CardView-XamarinForms\\DemoProject\\DemoProject.Android\\DemoProject.Android.csproj",
       "packagesPath": "C:\\Users\\abhishekk.CANARYS\\.nuget\\packages\\",
-      "outputPath": "D:\\PracticePro\\DemoProject\\DemoProject\\DemoProject.Android\\obj\\",
+      "outputPath": "D:\\PracticePro\\CardView-XamarinForms\\DemoProject\\DemoProject.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
